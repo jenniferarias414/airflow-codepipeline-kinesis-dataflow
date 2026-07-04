@@ -1,0 +1,26 @@
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# Local/editor
+.vscode/
+.idea/
+
+# Airflow local/runtime
+airflow.db
+airflow.cfg
+logs/
+plugins/__pycache__/
+
+# Private notes and account-specific config
+notes/private/
+*.pem
+*.key
+*credentials*
+*secret*
