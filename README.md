@@ -37,3 +37,8 @@ Amazon Athena
 ## Status
 
 Project scaffold created. AWS build steps pending.
+
+## TODO
+
+Will incorporate forked project into this repo for portfolio integration
+Create case study to accompany
